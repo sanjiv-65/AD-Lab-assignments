@@ -5,7 +5,7 @@
 -Write a Python program to demonstrate data preprocessing steps:<br>
  handling missing values, encoding categorical data, and feature
  scaling.<br>
--Load a sample dataset using pandas (e.g., Iris or a custom dataset).<br.
+-Load a sample dataset using pandas (e.g., Iris or a custom dataset).<br>
 -Plot the distribution of a feature using matplotlib.pyplot.hist().<br>
 -Create scatter plots to understand relationships between features using
  seaborn.scatterplot().<br>
