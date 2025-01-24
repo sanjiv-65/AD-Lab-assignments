@@ -10,8 +10,8 @@
 -Create scatter plots to understand relationships between features using
  seaborn.scatterplot().<br>
 -Use a correlation heatmap to find the relationship between multiple
- features with seaborn.heatmap().<br>
-<hr>
+ features with seaborn.heatmap().<br><hr>
+
 # Week 2: Regression Analysis
 ## Objective: Learn simple linear regression for predictive analysis.
 Experiment:
