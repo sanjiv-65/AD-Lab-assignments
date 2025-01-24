@@ -1,6 +1,6 @@
 # AD-Lab-assignments
 ## Week 1: Introduction to Machine Learning 
- Objective: Understand the basics of machine learning and Python / R,etc
+ Objective: Understand the basics of machine learning and Python / R,etc<br>
  Experiment: 
 -Write a Python program to demonstrate data preprocessing steps:
  handling missing values, encoding categorical data, and feature
