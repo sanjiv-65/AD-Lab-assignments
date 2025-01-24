@@ -12,8 +12,8 @@
 -Use a correlation heatmap to find the relationship between multiple
  features with seaborn.heatmap().<br><hr>
 
-# Week 2: Regression Analysis
-## Objective: Learn simple linear regression for predictive analysis.
+## Week 2: Regression Analysis
+### Objective: Learn simple linear regression for predictive analysis.
 Experiment:
 Implement simple linear regression to predict house prices based on
 features such as area and number of rooms.<br>
