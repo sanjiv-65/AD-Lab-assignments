@@ -44,10 +44,8 @@ or <br>
 ## classification with logistic regression
 Objective: Understand binary classification using logistic regression.<br>
 Experiment:
-Build a logistic regression with and without regularization (L1- Lasso or L2- Ridge, or L1+L2 - ElasticNet) model to classify emails as spam or not spam.
+Build a logistic regression with and without regularization (L1- Lasso or L2- Ridge, or L1+L2 - ElasticNet) model to classify emails as spam or not spam.<br>
 -Accuracy: A percentage indicating how many emails were correctly<br>
 classified.
- Assess model performance using accuracy, confusion matrix, and
-classification report (Classification Report: Precision, Recall, and F1-
-score for both spam and non-spam classes). Also plot the ROC curve and find the AUC values.
+- Assess model performance using accuracy, confusion matrix, andclassification report (Classification Report: Precision, Recall, and F1-score for both spam and non-spam classes). Also plot the ROC curve and find the AUC values.
 Dataset:  https://archive.ics.uci.edu/dataset/94/spambase
