@@ -39,4 +39,15 @@ score for both spam and non-spam classes)<br>
 dataset from the UCI Machine Learning Repository or create a simple
 synthetic dataset for demonstration purposes
 </div>
+or 
+## classification with logistic regression
+Objective: Understand binary classification using logistic regression.
+Experiment:
 
+Build a logistic regression with and without regularization (L1- Lasso or L2- Ridge, or L1+L2 - ElasticNet) model to classify emails as spam or not spam.
+ Accuracy: A percentage indicating how many emails were correctly
+classified.
+ Assess model performance using accuracy, confusion matrix, and
+classification report (Classification Report: Precision, Recall, and F1-
+score for both spam and non-spam classes). Also plot the ROC curve and find the AUC values.
+Dataset:  https://archive.ics.uci.edu/dataset/94/spambase
