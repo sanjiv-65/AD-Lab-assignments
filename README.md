@@ -28,7 +28,7 @@ clustering tasks. A popular dataset related to housing is the &quot;California
 Housing Prices&quot; dataset.
 
 ## Week 4: Classification with Logistic Regression
-Objective:Understand binary classification using logistic regression.
+Objective:Understand binary classification using logistic regression.<br>
 Experiment:
 Build a logistic regression model to classify emails as spam or not spam.<br>
 -Accuracy: A percentage indicating how many emails were correctly classified.<br>
