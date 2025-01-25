@@ -40,12 +40,12 @@ dataset from the UCI Machine Learning Repository or create a simple
 synthetic dataset for demonstration purposes
 </div><br>
 or <br>
-## classification with logistic regression
-Objective: Understand binary classification using logistic regression.
-Experiment:
 
+## classification with logistic regression
+Objective: Understand binary classification using logistic regression.<br>
+Experiment:
 Build a logistic regression with and without regularization (L1- Lasso or L2- Ridge, or L1+L2 - ElasticNet) model to classify emails as spam or not spam.
- Accuracy: A percentage indicating how many emails were correctly
+-Accuracy: A percentage indicating how many emails were correctly<br>
 classified.
  Assess model performance using accuracy, confusion matrix, and
 classification report (Classification Report: Precision, Recall, and F1-
