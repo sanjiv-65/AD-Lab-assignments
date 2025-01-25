@@ -30,7 +30,7 @@ Housing Prices&quot; dataset.
 ## Week 4: Classification with Logistic Regression
 Objective:Understand binary classification using logistic regression.
 Experiment:
-Build a logistic regression model to classify emails as spam or not spam.
+Build a logistic regression model to classify emails as spam or not spam.<br>
 -Accuracy: A percentage indicating how many emails were correctly
 classified.
 -Assess model performance using accuracy, confusion matrix, and
