@@ -38,8 +38,8 @@ score for both spam and non-spam classes)<br>
  Note: We will use a publicly available dataset such as the SpamBase
 dataset from the UCI Machine Learning Repository or create a simple
 synthetic dataset for demonstration purposes
-</div>
-or 
+</div><br>
+or <br>
 ## classification with logistic regression
 Objective: Understand binary classification using logistic regression.
 Experiment:
