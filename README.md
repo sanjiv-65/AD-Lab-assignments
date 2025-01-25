@@ -34,7 +34,9 @@ Build a logistic regression model to classify emails as spam or not spam.<br>
 -Accuracy: A percentage indicating how many emails were correctly classified.<br>
 -Assess model performance using accuracy, confusion matrix, and classification report (Classification Report: Precision, Recall, and F1-
 score for both spam and non-spam classes)<br>
-
-Note: We will use a publicly available dataset such as the SpamBase
+<div>
+ Note: We will use a publicly available dataset such as the SpamBase
 dataset from the UCI Machine Learning Repository or create a simple
 synthetic dataset for demonstration purposes
+</div>
+
