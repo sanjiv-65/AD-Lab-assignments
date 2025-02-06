@@ -10,8 +10,8 @@ Write a Python program to demonstrate data preprocessing steps:<br>
   <li>Plot the distribution of a feature using matplotlib.pyplot.hist().</li>
   <li>Create scatter plots to understand relationships between features using
  seaborn.scatterplot().</li>
--Use a correlation heatmap to find the relationship between multiple
- features with seaborn.heatmap().<br> </ul> <hr>
+  <li>Use a correlation heatmap to find the relationship between multiple
+ features with seaborn.heatmap().</li> </ul> <hr>
 
 ### Week 2: Regression Analysis
 ### Objective: Learn simple linear regression for predictive analysis.
