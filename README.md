@@ -18,10 +18,10 @@ Write a Python program to demonstrate data preprocessing steps:<br>
 Experiment:
 Implement simple linear regression to predict house prices based on
 features such as area and number of rooms.<br>
-
--Evaluate the model using metrics such as mean_squared_error and
- r2_score.<br>
--Visualize the regression line on a scatter plot of the data<br>
+<ul>
+  <li>Evaluate the model using metrics such as mean_squared_error and
+ r2_score.</li>
+  <li>Visualize the regression line on a scatter plot of the data</li></ul>
 ### Note: A common dataset we can explore is the &quot;House Prices
 <br>
 - Advanced Regression Techniques&quot; dataset from kaggle. The UCI Machine Learning
