@@ -7,7 +7,7 @@ Write a Python program to demonstrate data preprocessing steps:<br>
  scaling.<br>
  <ul>
   <li>Load a sample dataset using pandas (e.g., Iris or a custom dataset).</li>
--Plot the distribution of a feature using matplotlib.pyplot.hist().<br>
+  <li>Plot the distribution of a feature using matplotlib.pyplot.hist().</li>
 -Create scatter plots to understand relationships between features using
  seaborn.scatterplot().<br>
 -Use a correlation heatmap to find the relationship between multiple
