@@ -24,10 +24,10 @@ features such as area and number of rooms.<br>
   <li>Visualize the regression line on a scatter plot of the data</li></ul>
 ### Note: A common dataset we can explore is the &quot;House Prices
 <br>
-- Advanced Regression Techniques&quot; dataset from kaggle. The UCI Machine Learning
+<li> Advanced Regression Techniques&quot; dataset from kaggle. The UCI Machine Learning
 Repository has many datasets for classification, regression, and
 clustering tasks. A popular dataset related to housing is the &quot;California
-Housing Prices&quot; dataset.
+Housing Prices&quot; dataset.</li>
 
 ### Week 4: Classification with Logistic Regression
 Objective:Understand binary classification using logistic regression.<br>
