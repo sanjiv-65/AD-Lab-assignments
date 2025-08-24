@@ -1,4 +1,32 @@
-### AD-Lab-assignments
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+asssssssssssssssssssssssssssssssssssssssssssssssssssssssss### AD-Lab-assignments
 ### Week 1: Introduction to Machine Learning 
  Objective: Understand the basics of machine learning and Python / R,etc<br>
  Experiment:
@@ -51,31 +79,3 @@ Build a logistic regression with and without regularization (L1- Lasso or L2- Ri
 - Assess model performance using accuracy, confusion matrix, andclassification report (Classification Report: Precision, Recall, and F1-score for both spam and non-spam classes). Also plot the ROC curve and find the AUC values.<br>
 Dataset:  https://archive.ics.uci.edu/dataset/94/spambase
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-asssssssssssssssssssssssssssssssssssssssssssssssssssssssss
