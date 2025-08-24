@@ -1,4 +1,4 @@
-sssssssssssssssssssssssssssssssssssssssssssssssssssssss### AD-Lab-assignments
+ssssssssssssssssssssssssssssssssssssssssssssssssssssss### AD-Lab-assignments
 ### Week 1: Introduction to Machine Learning 
  Objective: Understand the basics of machine learning and Python / R,etc<br>
  Experiment:
